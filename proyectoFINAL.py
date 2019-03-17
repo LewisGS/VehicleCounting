@@ -8,7 +8,7 @@ import datetime
 from funcion import *
 
 
-
+#Esto es una megaprueba.
 def mainFunction():
     #Aqui tenemos todos los parametros para ajustar el conteo.
     #Nº de px. que debe tener un cuadrado antes de que lo consideremos candidato para el seguimiento.
